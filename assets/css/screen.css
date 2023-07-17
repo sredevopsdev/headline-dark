@@ -14,7 +14,7 @@
         --white-color: #fff;
         --light-gray-color: #f4f4f4;
         --mid-gray-color: #f8f8f8;
-        --dark-gray-color: #ededed;
+        --dark-gray-color: #292929;
         --black-color: #000;
         --color-black: #000;
         --animation-base: ease-in-out;
@@ -25,8 +25,8 @@
         --color-primary: #ffffff;
         --color-primary-hover: #777;
         --color-primary-active: #e8e8e8;
-        --color-darker-gray: #b3b3b3;
-        --color-dark-gray: #ffffff;
+        --color-darker-gray: #292929;
+        --color-dark-gray: #000000;
 }
 /* body:not(.post-template):not(.page-template) { */
 body {
