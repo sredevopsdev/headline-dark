@@ -689,7 +689,7 @@ body:not(.home-template) .gh-topic-grid .gh-card {
     padding-top: 80px;
     padding-bottom: 120px;
     margin-top: 120px;
-    background-color: var(--color-black);
+    background-color: #000000!important;
 }
 
 .gh-foot,
